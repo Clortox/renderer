@@ -4,6 +4,6 @@ A simple single image renderer, written in C++. CPU (for now), just for my learn
 
 ## Sample images
 
-![Wireframe](./output/framebuffer.tga)
+![Wireframe](./output/wireframe.png)
 
 Wireframe Rendering
